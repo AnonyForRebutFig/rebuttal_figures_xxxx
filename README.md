@@ -1,6 +1,6 @@
 ## Rebuttal Figures
 
-**Rebuttal Figures** for ICML submission 1875: Explaining Context Length Scaling and Bounds for Language Models
+**Rebuttal Figures** for ICML submission 1875.
 
 (Due to a crash of anonymous git we created an anonymous account on github for rebuttals.)
 
